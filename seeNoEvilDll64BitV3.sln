@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "seeNoEvilDll64BitV3", "seeNoEvilDll64BitV3\seeNoEvilDll64BitV3.vcxproj", "{C7F8EACD-7B35-4061-85CC-3B2FD6FB6727}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7F8EACD-7B35-4061-85CC-3B2FD6FB6727}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7F8EACD-7B35-4061-85CC-3B2FD6FB6727}.Debug|Win32.Build.0 = Debug|Win32
+		{C7F8EACD-7B35-4061-85CC-3B2FD6FB6727}.Release|Win32.ActiveCfg = Release|Win32
+		{C7F8EACD-7B35-4061-85CC-3B2FD6FB6727}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
