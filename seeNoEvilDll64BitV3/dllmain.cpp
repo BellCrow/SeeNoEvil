@@ -106,6 +106,8 @@ int filterPidFromBuffer(int pidToFilter, SYSTEM_PROCESS_INFORMATION* bufferEntry
 	if (prevEntry == nullptr)
 	{
 		//hiding first entry
+		//TODO: this is usually never the case, as the first 
+		//pid is usually the system, but it would still be nice to have for completions sake
 	}
 
 }
